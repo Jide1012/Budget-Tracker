@@ -22,7 +22,7 @@ THEN the deposits or expenses added while they were offline are added to their t
   ## Usage
 The links below show this applications will be used.
 
-![Budget-Tracker])
+![Budget-Tracker](https://github.com/Jide1012/Budget-Tracker/blob/main/Images/Mod%2019%20Image.PNG)
 
 
   ## License
